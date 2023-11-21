@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Asap-posts/static/css/main.edf170eb.css",
+    "main.js": "/Asap-posts/static/js/main.0b4df1c1.js",
+    "static/media/asapmark.png": "/Asap-posts/static/media/asapmark.2f82ca4986aa2999bcc5.png",
+    "index.html": "/Asap-posts/index.html",
+    "main.edf170eb.css.map": "/Asap-posts/static/css/main.edf170eb.css.map",
+    "main.0b4df1c1.js.map": "/Asap-posts/static/js/main.0b4df1c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf170eb.css",
+    "static/js/main.0b4df1c1.js"
+  ]
+}
