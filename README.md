@@ -1,7 +1,7 @@
 Deleted Old Repo for not having file structure, now pushed the code again in organized with Demo as well
 
 # Project Demo
-HD Quality:  https://drive.google.com/file/d/1-qqvZ6XEKv813H2cExODE1vhqvH3qMpW/view?usp=sharing
+HD Quality- Responsiveness-check:  https://drive.google.com/file/d/1-qqvZ6XEKv813H2cExODE1vhqvH3qMpW/view?usp=sharing
 
 https://github.com/aravind-jagadabi/Asap-posts/assets/76617844/9e41d20c-e5d7-4e35-a195-dc106cf4bcb1
 
