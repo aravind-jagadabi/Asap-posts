@@ -4,6 +4,10 @@ Deleted Old Repo for not having file structure, now pushed the code again in org
 HD Quality- Responsiveness-check:  https://drive.google.com/file/d/1-qqvZ6XEKv813H2cExODE1vhqvH3qMpW/view?usp=sharing
 
 
+Hosted in Github pages at here : https://aravind-jagadabi.github.io/Asap-posts/
+But due to News Api Developer Plan, it may not render the posts at live.
+
+
 
 # Getting Started with Create React App
 
