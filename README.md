@@ -3,8 +3,6 @@ Deleted Old Repo for not having file structure, now pushed the code again in org
 # Project Demo
 HD Quality- Responsiveness-check:  https://drive.google.com/file/d/1-qqvZ6XEKv813H2cExODE1vhqvH3qMpW/view?usp=sharing
 
-https://github.com/aravind-jagadabi/Asap-posts/assets/76617844/9e41d20c-e5d7-4e35-a195-dc106cf4bcb1
-
 
 
 # Getting Started with Create React App
