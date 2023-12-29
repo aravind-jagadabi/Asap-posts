@@ -1,4 +1,3 @@
-Deleted Old Repo for not having file structure, now pushed the code again in organized with Demo as well
 
 # Project Demo
 HD Quality- Responsiveness-check:  https://drive.google.com/file/d/1-qqvZ6XEKv813H2cExODE1vhqvH3qMpW/view?usp=sharing
